@@ -1,0 +1,18 @@
+{
+  "name": "transactor",
+  "version": "0.0.1",
+  "description": "A graph based transactions library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "transactions",
+    "node",
+    "javascript",
+    "js",
+    "graph"
+  ],
+  "author": "Itay Waisman",
+  "license": "ISC"
+}
